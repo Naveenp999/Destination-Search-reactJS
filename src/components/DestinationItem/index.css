@@ -1,0 +1,15 @@
+.place-image {
+  width: 250px;
+  height: 200px;
+}
+.list-item {
+  list-style-type: none;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+  max-width: 250px;
+}
+.place-name {
+  color: #252627;
+  font-size: 20px;
+}
